@@ -1,0 +1,15 @@
+{
+  "name": "continuable",
+  "version": "0.0.0",
+  "description": "A continuable style interface for node.js APIs",
+  "main": "continuable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/continuable.git"
+  },
+  "author": "Tim Caswell",
+  "license": "MIT"
+}
