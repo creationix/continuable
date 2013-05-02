@@ -1,5 +1,5 @@
 {
-  "name": "continuable",
+  "name": "continuable-uv",
   "version": "0.1.0",
   "description": "A continuable style interface for node.js APIs",
   "scripts": {
